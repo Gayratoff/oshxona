@@ -21,6 +21,12 @@ cp .env.template .env
 
 ## 4. Run django project
 
+- Makemigrations
+
+```sh
+python manage.py makemigrations
+```
+
 - Migrations
 
 ```sh
